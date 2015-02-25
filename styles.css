@@ -2,11 +2,17 @@ h1{
 	color: red;
 }
 
+body{
+	background-color: #202020;
+}
+
 #container{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 75%;
+	background-color: rgb(165, 165, 165);
+	padding: 15px;
 }
 
 .section{
