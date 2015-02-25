@@ -30,5 +30,6 @@ body{
 	width: 45%;
 	border-style: solid;
 	float: right;
-	height: 300px
+	height: 300px;
+	overflow: hidden;
 }
