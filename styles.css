@@ -8,3 +8,14 @@ h1{
 	margin-right: auto;
 	width: 75%;
 }
+
+.section{
+	text-align: center;
+}
+.content{
+	width: 100%;
+}
+.img-wrap{
+	width: 50%;
+	border-style: solid black;
+}
